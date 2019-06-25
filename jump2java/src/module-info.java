@@ -1,2 +1,0 @@
-module jump2java {
-}
